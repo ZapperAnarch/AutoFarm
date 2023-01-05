@@ -26,6 +26,6 @@ local function do_steps()
     end
 end
 
-while task.wait(0.3) do
+while task.wait(0.7) do
     do_steps()
 end
